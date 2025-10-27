@@ -91,7 +91,7 @@ Try each filter and note down what you see.
 
 ## Protocols Identified
 - **HTTP:** Web traffic between browser and servers.
-- **DNS:** Resolving domain names (e.g., google.com → IP address).
+- **DNS:** Resolving domain names (openai.com → IP address).
 - **TCP:** Reliable communication channel for web and application traffic.
 
 ## Observations
